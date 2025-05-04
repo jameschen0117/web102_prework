@@ -1,4 +1,5 @@
 // Image credits: Kickstarter
+// Totle games: 11
 const games = ` [
   {
     "name": "Heroes Of Mythic Americas",
