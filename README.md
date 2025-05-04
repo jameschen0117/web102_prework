@@ -19,8 +19,8 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/7URmRUi' title='Video Walkthrough imgur' width='' alt='Video Walkthrough imgur' />
-<img src='/Users/james/web102/web102_prework/Kapture 2025-05-04 at 12.01.17.gif' title='Video Walkthrough gif' width='' alt='Video Walkthrough gif' />
+<img src='https://imgur.com/a/7URmRUi.gif' title='Video Walkthrough imgur' width='' alt='Video Walkthrough imgur' />
+<img src='./Kapture 2025-05-04 at 12.01.17.gif' title='Video Walkthrough gif' width='' alt='Video Walkthrough gif' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap
