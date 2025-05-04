@@ -119,7 +119,7 @@ function filterFundedOnly() {
 
 // show all games
 function showAllGames() {
-    // deleteChildElements(gamesContainer);
+    deleteChildElements(gamesContainer);
 
     // add all games from the JSON data to the DOM
     addGamesToPage(GAMES_JSON);
